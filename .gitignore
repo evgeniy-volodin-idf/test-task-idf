@@ -4,8 +4,6 @@ build
 *.iml
 out
 gen
-.allure
-/mm-automation/**/allure-results/
 
 # Java template
 *.class
@@ -15,9 +13,6 @@ gen
 *.war
 *.ear
 !gradle-wrapper.jar
-
-# Virtual machine crash logs
-hs_err_pid*
 
 # MacOS
 *~
